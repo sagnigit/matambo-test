@@ -1,0 +1,444 @@
+{
+ "sections": [
+  {
+   "titre": "Boutique : pages principales",
+   "note": "Ouvrables sans connexion.",
+   "liens": [
+    {
+     "libelle": "Accueil",
+     "chemin": "/"
+    },
+    {
+     "libelle": "Accueil en anglais",
+     "chemin": "/en/"
+    },
+    {
+     "libelle": "Choisir la zone",
+     "chemin": "/zone/"
+    },
+    {
+     "libelle": "Recherche",
+     "chemin": "/recherche/"
+    },
+    {
+     "libelle": "Recherche « climatiseur »",
+     "chemin": "/recherche/?q=climatiseur"
+    },
+    {
+     "libelle": "Panier",
+     "chemin": "/panier/"
+    },
+    {
+     "libelle": "Passer commande (identification)",
+     "chemin": "/commande/identification/"
+    },
+    {
+     "libelle": "Lien de publicité (canal facebook)",
+     "chemin": "/?utm_source=facebook"
+    },
+    {
+     "libelle": "Lien de publicité (canal tiktok)",
+     "chemin": "/?utm_source=tiktok"
+    }
+   ]
+  },
+  {
+   "titre": "Boutique : catégories",
+   "note": "Rayons de démonstration.",
+   "liens": [
+    {
+     "libelle": "Électroménager",
+     "chemin": "/categorie/electromenager/"
+    },
+    {
+     "libelle": "Climatisation",
+     "chemin": "/categorie/climatisation/"
+    },
+    {
+     "libelle": "Froid",
+     "chemin": "/categorie/froid/"
+    }
+   ]
+  },
+  {
+   "titre": "Boutique : produits de démonstration (publiés)",
+   "note": "Les 10 produits de la commande `demo`.",
+   "liens": [
+    {
+     "libelle": "CLIM-12K-BL · climatiseur-split-12000-btu",
+     "chemin": "/produit/climatiseur-split-12000-btu/"
+    },
+    {
+     "libelle": "VENT-18-3V · ventilateur-sur-pied-18",
+     "chemin": "/produit/ventilateur-sur-pied-18/"
+    },
+    {
+     "libelle": "FRIG-185-3T · refrigerateur-combine-185l",
+     "chemin": "/produit/refrigerateur-combine-185l/"
+    },
+    {
+     "libelle": "LAV-6KG-INV · machine-a-laver-6kg-inverter",
+     "chemin": "/produit/machine-a-laver-6kg-inverter/"
+    },
+    {
+     "libelle": "BLEN-15-500 · blender-1-5l-500w",
+     "chemin": "/produit/blender-1-5l-500w/"
+    },
+    {
+     "libelle": "BOUI-18 · bouilloire-electrique-1-8l",
+     "chemin": "/produit/bouilloire-electrique-1-8l/"
+    },
+    {
+     "libelle": "TV-43-FHD · smart-tv-43-full-hd",
+     "chemin": "/produit/smart-tv-43-full-hd/"
+    },
+    {
+     "libelle": "TEL-67-128 · smartphone-6-7-128go",
+     "chemin": "/produit/smartphone-6-7-128go/"
+    },
+    {
+     "libelle": "PC-156-I5 · ordinateur-portable-15-6",
+     "chemin": "/produit/ordinateur-portable-15-6/"
+    },
+    {
+     "libelle": "SAC-156 · sac-a-dos-ordinateur-15-6",
+     "chemin": "/produit/sac-a-dos-ordinateur-15-6/"
+    }
+   ]
+  },
+  {
+   "titre": "Boutique : compte client",
+   "note": "Connexion par code à 6 chiffres ou mot de passe.",
+   "liens": [
+    {
+     "libelle": "Connexion",
+     "chemin": "/compte/connexion/"
+    },
+    {
+     "libelle": "Mon compte",
+     "chemin": "/compte/"
+    },
+    {
+     "libelle": "Mes commandes",
+     "chemin": "/compte/commandes/"
+    },
+    {
+     "libelle": "Mes adresses",
+     "chemin": "/compte/adresses/"
+    },
+    {
+     "libelle": "Mes informations",
+     "chemin": "/compte/informations/"
+    },
+    {
+     "libelle": "Mes avis (connexion client requise)",
+     "chemin": "/mes-avis/"
+    },
+    {
+     "libelle": "Mes retours (connexion client requise)",
+     "chemin": "/retours/"
+    },
+    {
+     "libelle": "Suivi d'une commande (formulaire)",
+     "chemin": "/suivi/"
+    }
+   ]
+  },
+  {
+   "titre": "Boutique : pages d'information",
+   "note": "Quatre des cinq pages de démonstration sont publiées ; les autres s'ouvrent après « Publier » dans la gestion.",
+   "liens": [
+    {
+     "libelle": "Conditions de vente",
+     "chemin": "/pages/conditions-de-vente/"
+    },
+    {
+     "libelle": "Mentions légales",
+     "chemin": "/pages/mentions-legales/"
+    },
+    {
+     "libelle": "Politique de retour",
+     "chemin": "/pages/politique-de-retour/"
+    },
+    {
+     "libelle": "Zones et délais de livraison",
+     "chemin": "/pages/zones-et-delais-de-livraison/"
+    }
+   ]
+  },
+  {
+   "titre": "Gestion : connexion et général",
+   "note": "Comptes : moses, awa, sandra, paul, grace. Mot de passe : matambo-demo-2026.",
+   "liens": [
+    {
+     "libelle": "Connexion gestion",
+     "chemin": "/gestion/connexion/"
+    },
+    {
+     "libelle": "Accueil gestion",
+     "chemin": "/gestion/"
+    },
+    {
+     "libelle": "Équipe",
+     "chemin": "/gestion/equipe/"
+    },
+    {
+     "libelle": "Rôles",
+     "chemin": "/gestion/equipe/roles/"
+    },
+    {
+     "libelle": "Journal des actions",
+     "chemin": "/gestion/journal/"
+    },
+    {
+     "libelle": "Réglages généraux",
+     "chemin": "/gestion/reglages/"
+    },
+    {
+     "libelle": "Sécurité (double vérification)",
+     "chemin": "/gestion/securite/"
+    }
+   ]
+  },
+  {
+   "titre": "Gestion : commandes, livraison, paiements",
+   "note": "Compte conseillé : paul.",
+   "liens": [
+    {
+     "libelle": "Commandes",
+     "chemin": "/gestion/commandes/"
+    },
+    {
+     "libelle": "Fiche de CMD-0123",
+     "chemin": "/gestion/commandes/CMD-0123/"
+    },
+    {
+     "libelle": "Fiche de CMD-0122",
+     "chemin": "/gestion/commandes/CMD-0122/"
+    },
+    {
+     "libelle": "Clients",
+     "chemin": "/gestion/commandes/clients/"
+    },
+    {
+     "libelle": "Livraison (zones)",
+     "chemin": "/gestion/livraison/"
+    },
+    {
+     "libelle": "Zone Douala centre",
+     "chemin": "/gestion/livraison/zones/douala-centre/"
+    },
+    {
+     "libelle": "Zone Yaoundé",
+     "chemin": "/gestion/livraison/zones/yaounde/"
+    },
+    {
+     "libelle": "Points de retrait",
+     "chemin": "/gestion/livraison/retraits/"
+    },
+    {
+     "libelle": "Suivi des livraisons",
+     "chemin": "/gestion/livraison/suivi/"
+    },
+    {
+     "libelle": "Tournées",
+     "chemin": "/gestion/livraison/tournees/"
+    },
+    {
+     "libelle": "Livreurs",
+     "chemin": "/gestion/livraison/livreurs/"
+    },
+    {
+     "libelle": "Comptoir (remise en boutique)",
+     "chemin": "/gestion/livraison/comptoir/"
+    },
+    {
+     "libelle": "Paiements",
+     "chemin": "/gestion/paiements/"
+    },
+    {
+     "libelle": "Paiements à vérifier",
+     "chemin": "/gestion/paiements/a-verifier/"
+    },
+    {
+     "libelle": "Paiements à la livraison",
+     "chemin": "/gestion/paiements/a-la-livraison/"
+    },
+    {
+     "libelle": "Réglages paiements",
+     "chemin": "/gestion/paiements/reglages/"
+    }
+   ]
+  },
+  {
+   "titre": "Gestion : catalogue",
+   "note": "Compte conseillé : awa (prix d'achat : moses).",
+   "liens": [
+    {
+     "libelle": "Catalogue",
+     "chemin": "/gestion/catalogue/"
+    },
+    {
+     "libelle": "Nouveau produit",
+     "chemin": "/gestion/catalogue/nouveau/"
+    },
+    {
+     "libelle": "Catégories",
+     "chemin": "/gestion/catalogue/categories/"
+    },
+    {
+     "libelle": "Stock",
+     "chemin": "/gestion/catalogue/stock/"
+    },
+    {
+     "libelle": "Imports Excel",
+     "chemin": "/gestion/catalogue/imports/"
+    },
+    {
+     "libelle": "Modèle Excel",
+     "chemin": "/gestion/catalogue/imports/modele.xlsx"
+    },
+    {
+     "libelle": "Fichier des produits à compléter",
+     "chemin": "/gestion/catalogue/imports/a-completer.xlsx"
+    },
+    {
+     "libelle": "Photos",
+     "chemin": "/gestion/catalogue/photos/"
+    },
+    {
+     "libelle": "Photos à rapprocher",
+     "chemin": "/gestion/catalogue/photos/a-rapprocher/"
+    },
+    {
+     "libelle": "Exporter le catalogue",
+     "chemin": "/gestion/catalogue/exporter/"
+    },
+    {
+     "libelle": "Fiche CLIM-12K-BL",
+     "chemin": "/gestion/catalogue/produit/CLIM-12K-BL/"
+    },
+    {
+     "libelle": "Fiche VENT-18-3V",
+     "chemin": "/gestion/catalogue/produit/VENT-18-3V/"
+    },
+    {
+     "libelle": "Fiche FRIG-185-3T",
+     "chemin": "/gestion/catalogue/produit/FRIG-185-3T/"
+    },
+    {
+     "libelle": "Fiche LAV-6KG-INV",
+     "chemin": "/gestion/catalogue/produit/LAV-6KG-INV/"
+    }
+   ]
+  },
+  {
+   "titre": "Gestion : promotions et accueil",
+   "note": "Compte conseillé : sandra.",
+   "liens": [
+    {
+     "libelle": "Promotions",
+     "chemin": "/gestion/promotions/"
+    },
+    {
+     "libelle": "Nouvelle remise",
+     "chemin": "/gestion/promotions/remises/nouvelle/"
+    },
+    {
+     "libelle": "Nouveau code promo",
+     "chemin": "/gestion/promotions/codes/nouveau/"
+    },
+    {
+     "libelle": "Annonces",
+     "chemin": "/gestion/promotions/annonces/"
+    },
+    {
+     "libelle": "Collections",
+     "chemin": "/gestion/promotions/collections/"
+    },
+    {
+     "libelle": "Paliers",
+     "chemin": "/gestion/promotions/paliers/"
+    },
+    {
+     "libelle": "Accueil : sections et bannières",
+     "chemin": "/gestion/promotions/accueil/"
+    },
+    {
+     "libelle": "Nouvelle bannière",
+     "chemin": "/gestion/promotions/accueil/bannieres/nouvelle/"
+    }
+   ]
+  },
+  {
+   "titre": "Gestion : après-vente, communication, pilotage, contenu",
+   "note": "Comptes conseillés : grace (après-vente), moses (le reste).",
+   "liens": [
+    {
+     "libelle": "Après-vente",
+     "chemin": "/gestion/sav/"
+    },
+    {
+     "libelle": "Remboursements",
+     "chemin": "/gestion/sav/remboursements/"
+    },
+    {
+     "libelle": "Avis",
+     "chemin": "/gestion/sav/avis/"
+    },
+    {
+     "libelle": "Réglages après-vente",
+     "chemin": "/gestion/sav/reglages/"
+    },
+    {
+     "libelle": "Communication",
+     "chemin": "/gestion/communication/"
+    },
+    {
+     "libelle": "Messages de CMD-0123 (WhatsApp, facture)",
+     "chemin": "/gestion/communication/commande/CMD-0123/"
+    },
+    {
+     "libelle": "Journal des messages",
+     "chemin": "/gestion/communication/journal/"
+    },
+    {
+     "libelle": "Réglages communication",
+     "chemin": "/gestion/communication/reglages/"
+    },
+    {
+     "libelle": "Tableau de bord",
+     "chemin": "/gestion/pilotage/"
+    },
+    {
+     "libelle": "Rapports",
+     "chemin": "/gestion/pilotage/rapports/"
+    },
+    {
+     "libelle": "Rapport des ventes",
+     "chemin": "/gestion/pilotage/rapports/ventes/"
+    },
+    {
+     "libelle": "Rapport de l'argent",
+     "chemin": "/gestion/pilotage/rapports/argent/"
+    },
+    {
+     "libelle": "Rapport des marges",
+     "chemin": "/gestion/pilotage/rapports/marges/"
+    },
+    {
+     "libelle": "Rapport du stock",
+     "chemin": "/gestion/pilotage/rapports/stock/"
+    },
+    {
+     "libelle": "Tâches de fond",
+     "chemin": "/gestion/pilotage/taches/"
+    },
+    {
+     "libelle": "Contenu : pages d'information",
+     "chemin": "/gestion/contenu/"
+    }
+   ]
+  }
+ ]
+}
